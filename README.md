@@ -6,7 +6,7 @@ This project is built using PlatformIO, using [M5Stack IoT Base NB](https://docs
 
 ## Related Link
 
-[Docment & Datasheet](https://docs.m5stack.com/en/base/iot_base_nb_cn)
+[Document & Datasheet](https://docs.m5stack.com/en/base/iot_base_nb_cn)
 
 ## Required Libraries:
 
